@@ -1,0 +1,23 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	deleted:    src/App.css
+#	modified:   src/App.js
+#	deleted:    src/App.test.js
+#	new file:   src/data/mockData.js
+#	new file:   src/data/mockGeoFeatures.js
+#	modified:   src/index.css
+#	modified:   src/index.js
+#	deleted:    src/logo.svg
+#	deleted:    src/reportWebVitals.js
+#	new file:   src/scenes/dashboard/global/Sidebar.jsx
+#	new file:   src/scenes/dashboard/global/TopBar.jsx
+#	new file:   src/scenes/dashboard/index.jsx
+#	deleted:    src/setupTests.js
+#	new file:   src/theme.js
+#
